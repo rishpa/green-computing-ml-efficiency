@@ -1,0 +1,6 @@
+Dataset,Model,Average_MCC,Runtime_seconds,CO2_kg
+10_7717_peerj_5665_dataYM2018_neuroblastoma.csv,RandomForest,0.4472649367694412,4.518124103546143,3.123348740116256e-06
+journal.pone.0148699_S1_Text_Sepsis_SIRS_EDITED.csv,RandomForest,0.518358460419874,8.937570095062256,2.7210369699288517e-06
+journal.pone.0158570_S2File_depression_heart_failure.csv,RandomForest,0.999353830651998,4.906317949295044,1.4350489941093285e-06
+dataset_Belgrade2021_pediatric_brain_tumor_plos_one_0259095_cleaned.csv,RandomForest,0.8120924033584943,4.56196403503418,1.3226334993575435e-06
+dataset_Taipei2018_colorectal_cancer_EHRs_plos_one_0200893_final_cleaned.csv,RandomForest,0.19997668463641435,9.521889209747314,2.7596284864172383e-06
